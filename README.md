@@ -1,7 +1,3 @@
-#License
-
----
-
 ##  Wallet Tracker
 
 ```markdown
