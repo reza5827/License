@@ -7,7 +7,6 @@ Track portfolio across multiple wallets and exchanges.
 - PnL calculation
 - CSV export
 - Telegram alerts
-
 ## Tech Stack
 
 - Python
