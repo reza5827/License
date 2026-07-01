@@ -8,7 +8,6 @@ Track portfolio across multiple wallets and exchanges.
 - CSV export
 - Telegram alerts
 ## Tech Stack
-
 - Python
 - PostgreSQL
 - Redis
