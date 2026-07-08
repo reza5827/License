@@ -12,6 +12,5 @@ Track portfolio across multiple wallets and exchanges.
 - PostgreSQL
 - Redis
 - Celery
-## License
-
+## Licens
 MIT
