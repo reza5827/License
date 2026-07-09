@@ -6,7 +6,7 @@ Track portfolio across multiple wallets and exchanges.
 - Real-time price updates
 - PnL calculation
 - CSV export
-- Telegram alerts
+-  alerts
 ## Tech 
 - Python
 - PostgreSQL
