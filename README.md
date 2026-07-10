@@ -10,7 +10,6 @@ Track portfolio across multiple wallets and exchanges.
 ## Tech 
 - Python
 - PostgreSQL
-- Redis
 - Celery
 ## Licens
 MIT
